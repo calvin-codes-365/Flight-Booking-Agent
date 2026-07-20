@@ -14,3 +14,11 @@ Building interactive console applications
 Combining AI predictions with user-driven logic
 
 Creating recommendation systems
+
+
+
+https://github.com/user-attachments/assets/ce73bbee-57b1-4942-864c-ee16398bcc3c
+
+
+
+
